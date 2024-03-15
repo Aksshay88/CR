@@ -176,7 +176,7 @@ Cold Recognition is a project dedicated to retrieving details of an unidentified
 
 
 ### Inspiration <img src="images/inspo.png" alt="png" width="30">
-The inspiration behind the creation of ColdRecog stems from the pressing need for more accurate, efficient, and accessible methods of brain disease diagnosis in the modern healthcare landscape. The convergence of medical expertise and technological advancements has the potential to revolutionize the way diseases are detected and treated. Several key factors have motivated the inception of Diagnosify:
+The inspiration behind the creation of ColdRecog stems from the pressing need for more accurate, efficient.
 
 1. <b>🌐 Addressing Humanitarian Challenges:</b> The inspiration behind the Cold Recognition project is deeply rooted in addressing the humanitarian and forensic challenges associated with unidentified corpses. In countless forensic investigations, cases involving unidentified individuals remain a significant hurdle, causing prolonged agony for families seeking closure. The project was conceived with the profound understanding that technology could play a pivotal role in solving these cases and bringing solace to grieving families.
 
@@ -185,7 +185,6 @@ The inspiration behind the creation of ColdRecog stems from the pressing need fo
 3. <b>💡 Ethical Responsibility and Technological Innovation:</b> Moreover, our motivation extends beyond technological innovation; it is fueled by a commitment to human empathy and ethical responsibility. The ethical imperative to aid law enforcement in bringing closure to families of missing individuals served as a driving force. By integrating cutting-edge technology into forensic practices, Cold Recognition aims to contribute to the advancement of forensic science and bring efficiency, compassion, and resolution to the intricate domain of forensic investigations. The ultimate goal is to create a positive societal impact by offering a reliable and efficient solution for the complex and sensitive issue of identifying unknown individuals.
 
 ### Social Impact <img src="images/impact.png" alt="png" width="30">
-The "Diagnosify - Brain Disease Classification" project has the potential to create significant social impact in several ways:
 
 The Cold Recognition project, empowered by advanced image comparison techniques, seeks to bring profound social impact by addressing the humanitarian challenges associated with unidentified corpses. 🌐
 
