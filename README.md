@@ -7,8 +7,8 @@
 </div>
 <br>
 
-<div align="left">
-  <img src="images/Logomain.png" alt="png" width="30">
+<div align="center">
+  <img src="images/Logomain.png" alt="png" width="200">
 
   </div>
 
