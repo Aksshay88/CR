@@ -1,35 +1,20 @@
-# ColdRecog
+<div align=center>
+<img src="https://www.intel.com/content/dam/develop/public/us/en/images/logos/logo-oneapi-rwd.png" width=200>
+<h1>INTEL ONE API HACKATHON 2024</h1> 
+<img src="https://img.shields.io/badge/intel-%23121011?style=for-the-badge&color=blue">
+<img src="https://img.shields.io/badge/daksh-%23121011?style=for-the-badge&logoColor=%23ffffff&color=%23000000">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&color=black">
+</div>
+<br>
 
 <div align="center">
-  <a href="https://github.com/Ren-Gen22/coldRecog.git">
-    <img src="images/Logo.gif" alt="Your Project Logo" width="270">
-  </a>
- 
-[![Build Status](https://travis-ci.com/limkhashing/Face-Matching.svg?token=sZGsDojxrUtyz1ravQZ4&branch=master)](https://travis-ci.com/limkhashing/Face-Matching)
-[![codecov](https://codecov.io/gh/limkhashing/Face-Matching/branch/master/graph/badge.svg?token=2WDJFB51rs)](https://codecov.io/gh/limkhashing/Face-Matching)
-![Python Version](https://img.shields.io/pypi/pyversions/Django.svg)
-![Side Project](https://img.shields.io/badge/Side-Project-yellowgreen.svg)
+  <img src="images/Logomain.png" alt="png" width="200">
 
-[![Contributors](https://img.shields.io/github/contributors/Aksshay88/Cold-Recog.svg)](https://github.com/Ren-Gen22/coldRecog/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/Aksshay88/Cold-Recog.svg)](https://github.com/Ren-Gen22/coldRecog/network/members)
-[![Stargazers](https://img.shields.io/github/stars/Aksshay88/Cold-Recog.svg)](https://github.com/Ren-Gen22/coldRecog/stargazers)
-[![Issues](https://img.shields.io/github/issues/Aksshay88/Cold-Recog.svg)](https://github.com/Ren-Gen22/coldRecog/issues)
+  </div>
 
+  <h1 align="left"><b>Cold-Recog</b></h1>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-
- Animated Hello [🔝](#--gifs-for-readme--)
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="300" alt="animated hello">
-
----
-  
-
-  <h1 align="center"><b>Cold-Recog</b></h1>
-
-  <p align="center">
+  <p align="left">
     <b>Welcome to our project!</b>
     <br />
     <br />
@@ -39,20 +24,25 @@
 
 ## Tech/Framework used
 
+# Technology Used
 
-[![Python](https://img.shields.io/badge/Python-3470a3?&logoColor=white)](https://www.python.org/)
-  
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-da5b0b?&logoColor=white)](https://jupyter.org/)
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-f0b93a?&logoColor=white)](https://www.tensorflow.org/)
-
-[![Streamlit](https://img.shields.io/badge/Streamlit-f24747?&logoColor=white)](https://streamlit.io/)
-
-[![Intel oneAPI](https://img.shields.io/badge/Intel%20oneAPI-20232A?&logoColor=61DAFB)](https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-0/intel-oneapi-data-analytics-library-onedal.html)
-
-
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?&logoColor=white)](https://firebase.google.com/)
-
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 <!-- TABLE OF CONTENTS -->
 <details style="border: 1px solid #ccc; border-radius: 5px; padding: 5px; margin-bottom: 10px;">
@@ -75,11 +65,7 @@
     </li>
     <li><a href="#what-it-does">What it does</a></li>
     <li><a href="#how-we-built-it">How we built it</a></li>
-    <li><a href="#what-we-learned">What we learned</a></li>
-    <li><a href="#references-for-datasets">References for Datasets</a></li>
-  </ol>
-
-  
+     </ol>
 
 </details>
 
@@ -91,59 +77,69 @@ This project is a face recognition application built using Streamlit for the fro
 
 ## Installation
 
- Clone the repository:
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/Ren-Gen22/coldRecog.git
-   ```
-   ```bash
-   cd coldRecog
-   ```
+```bash
+git clone https://github.com/Ren-Gen22/coldRecog.git
+```
 
-# FOR WINDOWS 
+```bash
+cd coldRecog
+```
 
- # Create a virtual environment
-  ```cmd
-  python -m venv venv
-  ```
+# FOR WINDOWS
 
-  Activate the virtual environment
-```cmd 
+# Create a virtual environment
+
+```cmd
+python -m venv venv
+```
+
+Activate the virtual environment
+
+```cmd
 venv\Scripts\activate
 ```
 
-  Install dependencies (replace requirements.txt with your actual requirements file)
-```cmd 
+Install dependencies (replace requirements.txt with your actual requirements file)
+
+```cmd
 pip install -r requirements.txt
 ```
-  Deactivate the virtual environment when done
-```cmd 
+
+Deactivate the virtual environment when done
+
+```cmd
 deactivate
 ```
 
-
-
 ### For Linux:
-
 
 ```bash
 
 python3 -m venv venv
 ```
+
 Activate the virtual environment
-```bash 
+
+```bash
 source venv/bin/activate
 ```
-```bash 
+
+```bash
 pip install -r requirements.txt
 ```
- Deactivate the virtual environment when done
-```bash 
+
+Deactivate the virtual environment when done
+
+```bash
 deactivate
 ```
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <div align="center">
   <img src="images/aadhar.png" type="gif" alt="png" width="750">
 </div>
@@ -153,30 +149,29 @@ deactivate
 Cold Recognition is a project dedicated to retrieving details of an unidentified corpse by comparing them with a vast database of Aadhar card images. Using advanced image comparison techniques, the system returns approximately correct Aadhar images with an average accuracy of 65%. Focused on enhancing identification processes, this project addresses challenges in forensic scenarios, offering a reliable solution for identifying individuals with unidentified corpses. Explore the potential of Cold Recognition for accurate and efficient identity retrieval in challenging circumstances.
 
 #### Pioneered the world's first Expired Person Detector (based on spiral and wave drawings).
+
 #### Intel® oneAPI is used to optimize the models to provide accurate and efficient prediction,
+
 #### All of our models have an accuracy of 65%+.
 
-
-
-
 ## How does it work
+
 1. Upload a picture of the person you want to compare
 2. Click compare and it will compare the face found in picture.
-   * Check the size of picture uploaded. If is above certain threshold, then it will be compress
-<img src="images/flowchartpng.png" alt="Flowchart" style="width: 70%; height: 70%;">
-
+   - Check the size of picture uploaded. If is above certain threshold, then it will be compress
+     <img src="images/flowchartpng.png" alt="Flowchart" style="width: 70%; height: 70%;">
 
 </br>
 </br>
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<div align="left"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
-
-
 ### Inspiration <img src="images/inspo.png" alt="png" width="30">
-The inspiration behind the creation of ColdRecog stems from the pressing need for more accurate, efficient, and accessible methods of brain disease diagnosis in the modern healthcare landscape. The convergence of medical expertise and technological advancements has the potential to revolutionize the way diseases are detected and treated. Several key factors have motivated the inception of Diagnosify:
+
+The inspiration behind the creation of ColdRecog stems from the pressing need for more accurate, efficient, and accessible methods of identifying the identity of the dead person in the modern worls.
+Several key factors have motivated the inception of Cold-Recog:
 
 1. <b>🌐 Addressing Humanitarian Challenges:</b> The inspiration behind the Cold Recognition project is deeply rooted in addressing the humanitarian and forensic challenges associated with unidentified corpses. In countless forensic investigations, cases involving unidentified individuals remain a significant hurdle, causing prolonged agony for families seeking closure. The project was conceived with the profound understanding that technology could play a pivotal role in solving these cases and bringing solace to grieving families.
 
@@ -185,7 +180,8 @@ The inspiration behind the creation of ColdRecog stems from the pressing need fo
 3. <b>💡 Ethical Responsibility and Technological Innovation:</b> Moreover, our motivation extends beyond technological innovation; it is fueled by a commitment to human empathy and ethical responsibility. The ethical imperative to aid law enforcement in bringing closure to families of missing individuals served as a driving force. By integrating cutting-edge technology into forensic practices, Cold Recognition aims to contribute to the advancement of forensic science and bring efficiency, compassion, and resolution to the intricate domain of forensic investigations. The ultimate goal is to create a positive societal impact by offering a reliable and efficient solution for the complex and sensitive issue of identifying unknown individuals.
 
 ### Social Impact <img src="images/impact.png" alt="png" width="30">
-The "Diagnosify - Brain Disease Classification" project has the potential to create significant social impact in several ways:
+
+The "Cold-Recog" - Identity of Dead Person " project has the potential to create significant social impact in several ways:
 
 The Cold Recognition project, empowered by advanced image comparison techniques, seeks to bring profound social impact by addressing the humanitarian challenges associated with unidentified corpses. 🌐
 
@@ -199,54 +195,35 @@ The Cold Recognition project, empowered by advanced image comparison techniques,
 
 In essence, Cold Recognition goes beyond being a technological solution; it symbolizes the positive societal impact that innovative applications can have on human well-being and community welfare. 🌟
 
-## Built With
-
-### Technologies/Frameworks Used:
-
-- [![TensorFlow](https://img.shields.io/badge/TensorFlow-f0b93a?&logoColor=white)](https://www.tensorflow.org/) - An open-source machine learning framework.
-- [![Streamlit](https://img.shields.io/badge/Streamlit-f24747?&logoColor=white)](https://streamlit.io/) - A Python library for creating interactive web applications.
-- [![Firebase](https://img.shields.io/badge/Firebase-ffca28?&logoColor=white)](https://firebase.google.com/) - A platform for developing mobile and web applications.
-- [![Intel oneAPI](https://img.shields.io/badge/Intel%20oneAPI-20232A?&logoColor=61DAFB)](https://www.intel.com/content/www/us/en/docs/oneapi/programming-guide/2023-0/intel-oneapi-data-analytics-library-onedal.html) - A comprehensive set of tools and libraries for cross-architecture programming.
-- [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-da5b0b?&logoColor=white)](https://jupyter.org/) - An open-source web application for creating and sharing documents that contain live code, equations, visualizations, and narrative text.
-
-### Python Libraries:
-
-- [![NumPy](https://img.shields.io/badge/NumPy-013243?&logoColor=white)](https://numpy.org/) - A library for numerical operations in Python.
-- [![Pandas](https://img.shields.io/badge/Pandas-150458?&logoColor=white)](https://pandas.pydata.org/) - A data manipulation library for Python.
-
-### Frontend Framework:
-
-- [![Streamlit](https://img.shields.io/badge/Streamlit-f24747?&logoColor=white)](https://streamlit.io/) - A Python library for creating interactive web applications.
-
-### Development Environment:
-
-- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&logoColor=white)](https://code.visualstudio.com/) - A powerful source code editor.
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?&logoColor=white)](https://github.com/) - A web-based platform for version control and collaboration.
-
 <!-- Intel one api -->
+
 ## Intel® oneAPI
+
 Intel® OneAPI is a comprehensive development platform for building high-performance, cross-architecture applications. It provides a unified programming model, tools, and libraries that allow developers to optimize their applications for Intel® CPUs, GPUs, FPGAs, and other hardware. Intel® OneAPI includes support for popular programming languages like C++, Python, and Fortran, as well as frameworks for deep learning, high-performance computing, and data analytics. With Intel® OneAPI, developers can build applications that can run on a variety of hardware platforms, and take advantage of the performance benefits of Intel® architectures.
+
 <!-- Use of oneAPI in our project -->
+
 ### Use of oneAPI in our project
 
 In this section, we'll outline how we utilized various Intel® oneAPI libraries and frameworks to enhance the performance and efficiency of our models.
 
-* <b>Intel® oneAPI TensorFlow with Intel Optimization</b>
-
+- <b>Intel® oneAPI TensorFlow with Intel Optimization</b>
 
 Optimize your machine learning workflows by harnessing the combined capabilities of TensorFlow and Intel Optimization. This project capitalizes on the performance enhancements delivered by Intel to TensorFlow, ensuring efficient execution of deep learning tasks on Intel architectures. The integration allows for faster and more streamlined model training and inference, making it an ideal choice for projects seeking enhanced computational efficiency and performance.
 
 </b>
 
 <!-- Intel one api -->
+
 ## Intel® oneAPI
+
 Intel® OneAPI is a comprehensive development platform for building high-performance, cross-architecture applications. It provides a unified programming model, tools, and libraries that allow developers to optimize their applications for Intel® CPUs, GPUs, FPGAs, and other hardware. Intel® OneAPI includes support for popular programming languages like C++, Python, and Fortran, as well as frameworks for deep learning, high-performance computing, and data analytics. With Intel® OneAPI, developers can build applications that can run on a variety of hardware platforms, and take advantage of the performance benefits of Intel® architectures.
+
 <!-- Use of oneAPI in our project -->
+
 ### Use of oneAPI in our project
 
 In this section, we'll outline how we utilized various Intel® oneAPI libraries and frameworks to enhance the performance and efficiency of our models.
-
-
 
 <div align="center">
   <img src="images/intel_one_api_logo.png" alt="Your Project Logo" width="200">
@@ -257,11 +234,9 @@ In this section, we'll outline how we utilized various Intel® oneAPI libraries 
 
 The following graphs illustrate the substantial performance improvements achieved by integrating Intel® oneAPI libraries and frameworks into our models:
 <a href="https://github.com/Hackathon-5XA/cold-Recog.git">
-    <img src="images/intel_graph.jpeg" >
+<img src="images/intel_graph.jpeg" >
 
-By leveraging the power of Intel® oneAPI libraries and frameworks, our models achieves remarkable performance enhancements and optimized memory utilization across various disease prediction models. The seamless integration of  oneDNN, oneDPL, and AI Kit contributes to faster training, efficient inference, and improved overall user experience.
-
-
+By leveraging the power of Intel® oneAPI libraries and frameworks, our models achieves remarkable performance enhancements and optimized memory utilization across various disease prediction models. The seamless integration of oneDNN, oneDPL, and AI Kit contributes to faster training, efficient inference, and improved overall user experience.
 
 # TensorFlow-Intel Integration with oneAPI
 
@@ -282,6 +257,7 @@ To benefit from the TensorFlow-Intel integration with oneAPI, ensure that you ha
 Once oneAPI is set up, you can seamlessly run TensorFlow applications on Intel architectures, experiencing enhanced performance and scalability.
 
 ## How we built it <img src="images/built.png" alt="png" width="30">
+
 These are the steps involved in making this project:
 
 1. **Importing Libraries** 📚
@@ -296,16 +272,6 @@ These are the steps involved in making this project:
 10. **Saving model as 'modelnew.h5'** 💾
 11. **Deploying the Model as a Web Application using Streamlit** 🚀
 
-<div align="center">
-  <img src="images/python.png" alt="Python" width="100" />
-  <img src="images/numpy.png" alt="NumPy" width="100" />
-  <img src="images/pandas.png" alt="Pandas" width="200" />
-  <img src="images/tensorflow.png" alt="TensorFlow" width="140" />
-  <img src="images/streamlit.png" alt="Streamlit" width="140" />
-</div>
-
-
-
 ### Key Features
 
 - **Image Comparison:** Utilizing advanced image processing and deep learning techniques to compare uploaded images with reference data.
@@ -319,17 +285,19 @@ These are the steps involved in making this project:
 - **Healthcare:** Streamline healthcare processes by ensuring accurate patient identification and reducing the risk of administering treatments to the wrong individuals.
 
 - **Efficiency:** Provide a fast and reliable solution for organizations and systems that require quick identification of expired individuals.
+
 ## Acknowledgments
 
 We express our gratitude to Intel for providing the powerful oneAPI framework, enabling us to optimize our TensorFlow-based machine learning projects for enhanced performance on Intel hardware.
 
-
 ## Firebase Admin Usage
 
 ### Step 1: Install Firebase Admin SDK
+
 ```bash
 pip install firebase-admin
 ```
+
 ### Step 2: Set Up Firebase Project
 
 1. Go to the Firebase Console.
@@ -349,19 +317,13 @@ pip install firebase-admin
 
 Our project leverages Firebase for seamless cloud database access. Firebase facilitates image comparison, checking, and retrieval of Aadhar card details. The cloud-based database ensures efficient handling of data, providing accurate and secure results. This integration enhances the project's capabilities, making it a robust and scalable solution for image analysis and identification. Explore the power of Firebase to streamline the comparison process and retrieve Aadhar card images with precision.
 
-
-
-
 <div align="center">
   <img src="images/firebase1.jpeg" type="gif" alt="png" width="750">
 </div></br>
 
-
 <div align="center">
   <img src="images/firebase2.jpeg" type="gif" alt="png" width="750">
 </div>
-
-
 
 ## DeepFace Model Explanation
 
@@ -370,7 +332,6 @@ The DeepFace model is a powerful and versatile facial recognition model designed
 ### Key Features:
 
 1. **Facial Recognition:** DeepFace excels in accurately identifying and verifying faces in images. It leverages sophisticated convolutional neural networks (CNNs) to map facial features and compare them with known patterns.
-
 
 ### How It Works:
 
@@ -398,13 +359,11 @@ Contributions, issues and feature requests are welcome.<br />
 Feel free to check [issues page](https://github.com/Ren-Gen22/coldRecog/issues) if you want to contribute.<br />
 [Check the contributing guide](./CONTRIBUTING.md).<br />
 
-
-
 ## Show your support
 
 Please ⭐ this repository if this project helped you!
 
-## 👨‍💻 Developers 
+## 👨‍💻 Developers
 
 <div align="center">
  <a href="https://github.com/Ren-Gen22">
@@ -426,13 +385,8 @@ Please ⭐ this repository if this project helped you!
  
  #
 
-
 ## 📝 License
 
-Copyright © 2023 [Aksshay88](https://github.com/Ren-Gen22).<br />
+Copyright © 2023 [Ren-Gen22](https://github.com/Ren-Gen22).<br />
 
 ---
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color000&width=500&lines=Show+Some+Love+By+Giving+it+A+⭐.." >
