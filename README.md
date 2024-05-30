@@ -51,12 +51,34 @@ https://github.com/Aksshay88/CR/assets/119944779/31f5610f-efa7-47ee-b573-91ebb59
 
 ## About The Project
 
-<div align="center">
-  <img src="images/aadhar.png" type="gif" alt="png" width="750">
+<div align="left">
+  <img src="images/aadhar.png" type="gif" alt="png" width="450">
 </div>
 
-#### Pioneered the world's first Expired Person Detector (based on spiral and wave drawings).
+# Cold Recog: Unidentified Corpse Identification with Aadhar Card Images
 
-####  Our models have an accuracy of 65%+.
+## Project Overview
+
+Cold Recog is a system designed to assist in identifying unidentified corpses by leveraging facial recognition and a vast database of Aadhar card images. It employs advanced image comparison techniques to retrieve potentially matching Aadhar cards, aiding forensic investigations and offering a reliable solution for challenging identification scenarios.
+
+<b>Technical Approach</b>
+
+<b>Image Comparison:</b> Cold Recog utilizes [mention specific techniques, e.g., deep learning models trained on facial features] to compare facial features extracted from corpse images with those in the Aadhar card database.
+Data Preprocessing: To enhance accuracy, Cold Recog may involve preprocessing steps like [mention specific techniques, e.g., normalization, noise reduction] on both corpse images and Aadhar card images.
+Scalability: The system employs [mention techniques, e.g., distributed storage, image hashing] to efficiently search and compare images within the large Aadhar card database.
+Ethical Considerations
+
+<b>Privacy: </b>Cold Recog prioritizes data privacy. Aadhar card images are [mention anonymization/security techniques, e.g., anonymized, stored securely with access controls] to prevent misuse.
+Accuracy: The current average accuracy of 65% highlights the need for continuous improvement. The system incorporates measures to address false positives, such as [mention approaches, e.g., requiring human verification of high-probability matches].
+Legal Considerations: The use of Aadhar card images for identification of deceased individuals adheres to [mention relevant legal guidelines or references, if applicable].
+Future Directions
+
+<b>Accuracy Improvement: </b>Ongoing research focuses on refining image comparison techniques to achieve higher accuracy. This may involve exploring [mention potential advancements, e.g., more sophisticated algorithms, training on a larger dataset].
+Integration: Future development aims to integrate Cold Recog with [mention potential integrations, e.g., law enforcement databases, missing person registries] for a more comprehensive search capability.
+Global Adaptability: The project seeks to explore adaptations for use in other regions with similar national identity card systems.
+Additional Information
+
+
+
 <a href="/docs/readme.md"><img src="https://github.com/Aksshay88/CR/assets/119944779/104a3a38-0fab-46e5-89d7-03cb6aeca305"></a>
 
