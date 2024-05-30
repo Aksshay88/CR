@@ -10,7 +10,7 @@
 
 <a href="../model/readme.md">MODEL AND INTEL ONE API</a>
 
-<a href="../react-native-app/readme.md">FRONTEND</a>
+<a href="../Frontend/readme.md">FRONTEND</a>
 
 <a href="../backend_raw/readme.md">BACKEND</a>
 
