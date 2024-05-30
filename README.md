@@ -9,16 +9,20 @@
 
 <div align="center">
   <img src="images/Logomain.png" alt="png" width="200">
-
   </div>
 
   <h1 align="left"><b>Cold-Recog</b></h1>
 
   <p align="left">
-    <b>Welcome to our project!</b>
+    <b>Demo of the Project !</b>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/12XCKwyYZSSd3b4texUZhvaQaMBUPr6wF/view?usp=sharing">View Video</a>
+  
+
+https://github.com/Aksshay88/CR/assets/119944779/31f5610f-efa7-47ee-b573-91ebb594850c
+
+
+  
   </p>
 </div>
 
@@ -47,7 +51,9 @@
 <!-- TABLE OF CONTENTS -->
 <details style="border: 1px solid #ccc; border-radius: 5px; padding: 5px; margin-bottom: 10px;">
   <summary><strong style="color: #0366d6;">Table of Contents</strong></summary>
+![](https://github.com/Aksshay88/CR/assets/119944779/104a3a38-0fab-46e5-89d7-03cb6aeca305)
 
+<a href="/docs/readme.md"><img src="https://github.com/Aksshay8"></a>
   <ol>
     <li>
       <a href="#about-the-project">About the Project</a>
