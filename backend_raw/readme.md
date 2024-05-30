@@ -59,3 +59,39 @@ Consider additional measures like image compression or resizing to optimize stor
         <li>Identifies the identity of the person.</li>
         <li>Recalculate the person's face for better results.</li>
     </ul>
+
+## Firebase Admin Usage
+
+### Step 1: Install Firebase Admin SDK
+
+```bash
+pip install firebase-admin
+```
+
+### Step 2: Set Up Firebase Project
+
+1. Go to the Firebase Console.
+2. Create a new project or select an existing one.
+3. In the left sidebar, click on the gear icon (Project settings).
+4. Navigate to the "Service accounts" tab.
+
+### Step 3: Generate a New Private Key
+
+1. In the "Service accounts" tab, find the "Firebase Admin SDK" section.
+
+2. Click on the "Generate new private key" button.
+
+3. Save the generated JSON file securely.
+
+# Firebase Integration for Cloud Database Access
+
+Our project leverages Firebase for seamless cloud database access. Firebase facilitates image comparison, checking, and retrieval of Aadhar card details. The cloud-based database ensures efficient handling of data, providing accurate and secure results. This integration enhances the project's capabilities, making it a robust and scalable solution for image analysis and identification. Explore the power of Firebase to streamline the comparison process and retrieve Aadhar card images with precision.
+
+<div align="center">
+  <img src="../images/firebase1.jpeg" type="gif" alt="png" width="750">
+</div></br>
+
+<div align="center">
+  <img src="../images/firebase2.jpeg" type="gif" alt="png" width="750">
+</div>
+
