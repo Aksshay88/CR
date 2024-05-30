@@ -236,42 +236,6 @@ These are the steps involved in making this project:
 ## Acknowledgments
 
 We express our gratitude to Intel for providing the powerful oneAPI framework, enabling us to optimize our TensorFlow-based machine learning projects for enhanced performance on Intel hardware.
-
-## Firebase Admin Usage
-
-### Step 1: Install Firebase Admin SDK
-
-```bash
-pip install firebase-admin
-```
-
-### Step 2: Set Up Firebase Project
-
-1. Go to the Firebase Console.
-2. Create a new project or select an existing one.
-3. In the left sidebar, click on the gear icon (Project settings).
-4. Navigate to the "Service accounts" tab.
-
-### Step 3: Generate a New Private Key
-
-1. In the "Service accounts" tab, find the "Firebase Admin SDK" section.
-
-2. Click on the "Generate new private key" button.
-
-3. Save the generated JSON file securely.
-
-# Firebase Integration for Cloud Database Access
-
-Our project leverages Firebase for seamless cloud database access. Firebase facilitates image comparison, checking, and retrieval of Aadhar card details. The cloud-based database ensures efficient handling of data, providing accurate and secure results. This integration enhances the project's capabilities, making it a robust and scalable solution for image analysis and identification. Explore the power of Firebase to streamline the comparison process and retrieve Aadhar card images with precision.
-
-<div align="center">
-  <img src="images/firebase1.jpeg" type="gif" alt="png" width="750">
-</div></br>
-
-<div align="center">
-  <img src="images/firebase2.jpeg" type="gif" alt="png" width="750">
-</div>
-
 ## DeepFace Model Explanation
 
 The DeepFace model is a powerful and versatile facial recognition model designed for various applications, including identity verification, emotion analysis, and facial attribute prediction. Developed using deep learning techniques, the model is capable of extracting high-level facial features and making accurate predictions.
