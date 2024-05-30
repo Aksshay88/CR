@@ -18,7 +18,7 @@ Several key factors have motivated the inception of Cold-Recog:
 
 3. <b>💡 Ethical Responsibility and Technological Innovation:</b> Moreover, our motivation extends beyond technological innovation; it is fueled by a commitment to human empathy and ethical responsibility. The ethical imperative to aid law enforcement in bringing closure to families of missing individuals served as a driving force. By integrating cutting-edge technology into forensic practices, Cold Recognition aims to contribute to the advancement of forensic science and bring efficiency, compassion, and resolution to the intricate domain of forensic investigations. The ultimate goal is to create a positive societal impact by offering a reliable and efficient solution for the complex and sensitive issue of identifying unknown individuals.
 
-### Social Impact <img src="images/impact.png" alt="png" width="30">
+### Social Impact <img src="../images/impact.png" alt="png" width="30">
 
 The "Cold-Recog" - Identity of Dead Person " project has the potential to create significant social impact in several ways:
 
