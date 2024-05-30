@@ -56,7 +56,7 @@ In essence, Cold Recognition goes beyond being a technological solution; it symb
 ## Acknowledgments
 
 We express our gratitude to Intel for providing the powerful oneAPI framework, enabling us to optimize our TensorFlow-based machine learning projects for enhanced performance on Intel hardware.
-## DeepFace Model Explanation
+
 
 
 
