@@ -90,10 +90,4 @@ Please ⭐ this repository if this project helped you!
  <div align="center" >
  </div>
  
- #
 
-## 📝 License
-
-Copyright © 2023 [Ren-Gen22](https://github.com/Ren-Gen22).<br />
-
----
